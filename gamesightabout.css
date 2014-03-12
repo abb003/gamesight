@@ -1,0 +1,20 @@
+﻿body 
+{
+	background-color: #008080;
+	padding-left: 5px;
+}
+#aboutheading 
+{
+	border-style:groove;text-align: center; color: black; 
+	font-size: 40px; background-color:#f5f5f5;
+}
+#leftcol 
+{
+	border-style:groove; color:black;
+	width:100px;float:left;margin-right:4px;margin-left:5px
+}
+#main 
+{
+	width:440px;float:left;padding:7px;padding-top:0px;overflow:hidden
+	
+}
